@@ -1,1 +1,2 @@
-# Flip_Kart_Clone
+# flipkart-clone-html-css-and-javascript
+flipkart clone html css and javascript
